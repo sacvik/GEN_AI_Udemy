@@ -6,3 +6,5 @@ seaborn
 flask
 memory-profiler
 streamlit
+nltk
+sklearn
