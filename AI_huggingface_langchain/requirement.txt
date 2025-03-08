@@ -8,3 +8,6 @@ memory-profiler
 streamlit
 nltk
 sklearn
+keras
+tensorflow
+gensim
